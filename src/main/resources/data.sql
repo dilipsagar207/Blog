@@ -1,0 +1,1 @@
+-- optional sample data (passwords need to be bcrypt hashes)
